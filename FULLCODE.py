@@ -132,11 +132,8 @@ The simulator will automatically trace your string to determine if it's valid or
 
     st.markdown("""
 **Made by:**  
-Marticio, Viktor Harold  
-Alonsagay, Federic Von Lean  
-De Dios, Nicole Anne  
-Ginete, Gebriel Lamvert  
-**BCS35**
+Secret 
+** **
 """)
 
 
@@ -255,5 +252,5 @@ C → 1010 | 001 | 111 | 000 | ε
 D → 101 | 011 | 111 | 010""", language="text")  #
 
     st.markdown("### PDA Visualization for DFA 2:")
-    st.image("PDA01.jpg", caption="Pushdown Automaton for DFA 2", use_container_width=True)  # <- Replace with DFA 2 image
+    st.image("PDA01.jpg", caption="Pushdown Automaton for DFA 2", use_container_width=True)  
 
